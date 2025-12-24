@@ -33,22 +33,6 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div class="android-medium">
-      <img class="element" src="img/5f-9e-827-8b-0-3fbb-5ff-36-6b-0ea-6091-2e-25.png" />
-      <img class="images" src="img/images.png" />
-      <div class="rectangle"></div>
-      <div class="text-wrapper">REGISTER</div>
-    </div>
-  </body>
-</html>
 <!DOCTYPE html>
 <html>
   <head>
@@ -58,39 +42,44 @@ Figma
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="android-medium">
-      <img class="element" src="img/1131w-kpxah5qopvy.png" />
-      <div class="rectangle"></div>
-      <div class="div"></div>
-      <div class="rectangle-2"></div>
-      <div class="rectangle-3"></div>
-      <div class="rectangle-4"></div>
-      <div class="rectangle-5"></div>
-      <div class="text-wrapper">FULL NAME</div>
-      <div class="text-wrapper-2">:</div>
-      <div class="text-wrapper-3">AGE :</div>
-      <div class="text-wrapper-4">MOBILE NO :</div>
-      <div class="text-wrapper-5">E MAIL :</div>
-      <div class="text-wrapper-6">-</div>
-      <div class="text-wrapper-7">REFERENCE NO:</div>
-      <div class="text-wrapper-8">SUBMIT</div>
-    </div>
-  </body>
-</html>
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div class="android-medium">
-      <img class="images" src="img/images.png" />
-      <img class="element" src="img/251-6b-9b-6df-3-2e-2675-2aa-7d-58-1a-3a-0094.png" />
-      <div class="text-wrapper">THANK YOU!</div>
-      <div class="div">FOR YOUR PARTICIPATION</div>
+    <div class="property-default">
+      <div class="frame">
+        <img class="image" src="img/image-1.png" />
+        <p class="SEC">
+          <span class="text-wrapper">...</span>
+          <span class="span">SEC</span>
+          <span class="text-wrapper">...</span>
+        </p>
+        <div class="div">EVENT REGISTRATION</div>
+      </div>
+      <div class="frame-2">
+        <img class="img" src="img/image-2.png" />
+        <p class="element-VOLLEY-BOLL">
+          <span class="text-wrapper-2"
+            >1.VOLLEY BOLL<br />2.KABADDI<br />3.CRICKET<br />4.BASKET BALL<br />5.HOCKY<br
+          /></span>
+          <span class="text-wrapper-3"></span>
+        </p>
+        <div class="text-wrapper-4">Register Soon...</div>
+      </div>
+      <div class="frame-3">
+        <img class="image-2" src="img/image-3.png" />
+        <p class="element-SINGING-DANCING">
+          <span class="text-wrapper-5">1</span>
+          <span class="text-wrapper-6"
+            >.SINGING<br />2.DANCING<br />3.ACTING<br />4.COOKING<br />5.MEHENDI<br />6.3D ART<br />7.PAINTING<br />8.POEM
+            WRITING</span
+          >
+        </p>
+      </div>
+      <div class="frame-4">
+        <img class="image-3" src="img/image-4.png" />
+        <div class="REGISTER-SOON"><div class="text-wrapper-7">REGISTER SOON.....</div></div>
+        <div class="life-is-too-short">
+          Life&nbsp;&nbsp;is&nbsp;&nbsp;too&nbsp;&nbsp;short&nbsp;&nbsp; enjoy&nbsp;&nbsp;it
+          <br />while&nbsp;&nbsp;you&nbsp;&nbsp;have&nbsp;&nbsp;it..
+        </div>
+      </div>
     </div>
   </body>
 </html>
