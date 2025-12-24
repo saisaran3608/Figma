@@ -33,7 +33,6 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-'''
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -95,7 +94,6 @@ Figma
     </div>
   </body>
 </html>
-'''
 
 ## OUTPUT:
 <img width="1682" height="806" alt="Screenshot 2025-12-24 133656" src="https://github.com/user-attachments/assets/e98974d7-84ec-4f0d-b0fd-09c99195fede" />
