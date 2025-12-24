@@ -34,61 +34,63 @@ Figma
 
 ## CODE:
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div class="property-default">
-      <div class="frame">
-        <img class="image" src="img/image-1.png" />
-        <p class="SEC">
-          <span class="text-wrapper">...</span>
-          <span class="span">SEC</span>
-          <span class="text-wrapper">...</span>
-        </p>
-        <div class="div">EVENT REGISTRATION</div>
-      </div>
-      <div class="frame-2">
-        <img class="img" src="img/image-2.png" />
-        <p class="element-VOLLEY-BOLL">
-          <span class="text-wrapper-2"
-            >1.VOLLEY BOLL<br />2.KABADDI<br />3.CRICKET<br />4.BASKET BALL<br />5.HOCKY<br
-          /></span>
-          <span class="text-wrapper-3"></span>
-        </p>
-        <div class="text-wrapper-4">Register Soon...</div>
-      </div>
-      <div class="frame-3">
-        <img class="image-2" src="img/image-3.png" />
-        <p class="element-SINGING-DANCING">
-          <span class="text-wrapper-5">1</span>
-          <span class="text-wrapper-6"
-            >.SINGING<br />2.DANCING<br />3.ACTING<br />4.COOKING<br />5.MEHENDI<br />6.3D ART<br />7.PAINTING<br />8.POEM
-            WRITING</span
-          >
-        </p>
-      </div>
-      <div class="frame-4">
-        <img class="image-3" src="img/image-4.png" />
-        <div class="REGISTER-SOON"><div class="text-wrapper-7">REGISTER SOON.....</div></div>
-        <div class="life-is-too-short">
-          Life&nbsp;&nbsp;is&nbsp;&nbsp;too&nbsp;&nbsp;short&nbsp;&nbsp; enjoy&nbsp;&nbsp;it
-          <br />while&nbsp;&nbsp;you&nbsp;&nbsp;have&nbsp;&nbsp;it..
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
+first page
+<div style="width: 375px; height: 812px; position: relative; background: white">
+  <img style="width: 375px; height: 812px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/375x812" />
+  <img style="width: 361px; height: 74px; left: 7px; top: 50px; position: absolute" src="https://via.placeholder.com/361x74" />
+  <div style="left: 42px; top: 528px; position: absolute; color: white; font-size: 22px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">CULTURALS  NIGHT EVENT</div>
+  <div style="width: 210px; height: 37px; left: 69px; top: 586px; position: absolute; background: #D9D9D9"></div>
+  <div style="left: 108px; top: 594px; position: absolute; color: black; font-size: 22px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">     LOGIN</div>
+  <div style="width: 210px; height: 41px; left: 71px; top: 658px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 102px; height: 39px; left: 123px; top: 671px; position: absolute; color: black; font-size: 22px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">REGISTER</div>
+  <img style="width: 265px; height: 268px; left: 47px; top: 232px; position: absolute" src="https://via.placeholder.com/265x268" />
+</div>
+
+second page
+
+<div style="width: 375px; height: 812px; position: relative; background: white">
+  <img style="width: 375px; height: 812px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/375x812" />
+  <div style="left: 31px; top: 24px; position: absolute; color: white; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">CULTURAL NIGHT EVENTS</div>
+  <div style="width: 301px; height: 45px; left: 37px; top: 153px; position: absolute; background: black"></div>
+  <div style="width: 332px; height: 53px; left: 66px; top: 108px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Live Music Performances</div>
+  <div style="width: 273px; height: 71px; left: 66px; top: 177px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Food Stalls & Trucks</div>
+  <div style="width: 218px; height: 32px; left: 66px; top: 280px; position: absolute; background: black"></div>
+  <div style="width: 151px; height: 36px; left: 66px; top: 248px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Dance Shows</div>
+  <div style="width: 252px; height: 41px; left: 66px; top: 349px; position: absolute; background: black"></div>
+  <div style="width: 172px; height: 42px; left: 66px; top: 308px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Games & Rides</div>
+  <div style="width: 263px; height: 37px; left: 66px; top: 415px; position: absolute; background: black"></div>
+  <div style="width: 193px; height: 36px; left: 70px; top: 378px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Outdoor  Cinema</div>
+  <div style="width: 252px; height: 39px; left: 66px; top: 444px; position: absolute; background: black"></div>
+  <div style="width: 208px; height: 22px; left: 71px; top: 453px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Fashion Shows</div>
+  <div style="width: 87px; height: 53px; left: 82px; top: 679px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Dj Night</div>
+  <div style="width: 161px; height: 103px; left: 71px; top: 516px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Clothing Stalls</div>
+  <div style="width: 294px; height: 42px; left: 51px; top: 598px; position: absolute; background: black"></div>
+  <div style="width: 195px; height: 59px; left: 66px; top: 598px; position: absolute; color: #F9E477; font-size: 22px; font-family: Inter; font-weight: 700; word-wrap: break-word">Charity Auctions</div>
+</div>
+
+third page
+
+<div style="width: 375px; height: 812px; position: relative; background: white">
+  <img style="width: 375px; height: 812px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/375x812" />
+  <div style="left: 39px; top: 45px; position: absolute; mix-blend-mode: hard-light; color: white; font-size: 29px; font-family: Jolly Lodger; font-weight: 400; word-wrap: break-word">EVENT  REGISTRATION FORM</div>
+  <div style="width: 289px; height: 41px; left: 45px; top: 124px; position: absolute; background: #964BA8"></div>
+  <div style="width: 289px; height: 41px; left: 45px; top: 193px; position: absolute; background: #964BA8"></div>
+  <div style="width: 86px; height: 45px; left: 53px; top: 201px; position: absolute; color: black; font-size: 29px; font-family: Allan; font-weight: 400; word-wrap: break-word">Reg No</div>
+  <div style="width: 289px; height: 41px; left: 43px; top: 262px; position: absolute; background: #964BA8"></div>
+  <div style="width: 289px; height: 41px; left: 45px; top: 340px; position: absolute; background: #964BA8"></div>
+  <div style="width: 94px; height: 38px; left: 53px; top: 350px; position: absolute; color: black; font-size: 29px; font-family: Allan; font-weight: 400; word-wrap: break-word">Email Id</div>
+  <div style="width: 107px; left: 53px; top: 132px; position: absolute; color: black; font-size: 29px; font-family: Allan; font-weight: 400; word-wrap: break-word">Full Name </div>
+  <div style="width: 79px; height: 41px; left: 53px; top: 271px; position: absolute; color: black; font-size: 29px; font-family: Allan; font-weight: 400; word-wrap: break-word">Ph No.</div>
+  <div style="width: 214px; height: 37px; left: 75px; top: 441px; position: absolute; background: rgba(8.43, 178.97, 56.18, 0.86)"></div>
+  <div style="width: 114px; height: 46px; left: 110px; top: 441px; position: absolute; color: white; font-size: 29px; font-family: Allan; font-weight: 400; word-wrap: break-word">    REGISTER</div>
+  <div style="width: 176px; height: 58px; left: 113px; top: 622px; position: absolute; color: white; font-size: 32px; font-family: Allan; font-weight: 700; word-wrap: break-word">Contact Us </div>
+  <div style="width: 132px; height: 35px; left: 132px; top: 672px; position: absolute; color: white; font-size: 32px; font-family: Allan; font-weight: 700; word-wrap: break-word">E-mail:<br/></div>
+  <div style="width: 334px; height: 69px; left: 23px; top: 707px; position: absolute; color: #F9E477; font-size: 25px; font-family: Allan; font-weight: 700; word-wrap: break-word">saveethaengineeringcollege@gmail.com</div>
+</div>
 ```
 
 ## OUTPUT:
-<img width="1682" height="806" alt="Screenshot 2025-12-24 133656" src="https://github.com/user-attachments/assets/e98974d7-84ec-4f0d-b0fd-09c99195fede" />
-
+<img width="1289" height="753" alt="image" src="https://github.com/user-attachments/assets/9d843133-52e4-487d-a8fe-d67b6351a070" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
