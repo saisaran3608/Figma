@@ -34,8 +34,71 @@ Figma
 
 ## CODE:
 
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="element" src="img/5f-9e-827-8b-0-3fbb-5ff-36-6b-0ea-6091-2e-25.png" />
+      <img class="images" src="img/images.png" />
+      <div class="rectangle"></div>
+      <div class="text-wrapper">REGISTER</div>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="element" src="img/1131w-kpxah5qopvy.png" />
+      <div class="rectangle"></div>
+      <div class="div"></div>
+      <div class="rectangle-2"></div>
+      <div class="rectangle-3"></div>
+      <div class="rectangle-4"></div>
+      <div class="rectangle-5"></div>
+      <div class="text-wrapper">FULL NAME</div>
+      <div class="text-wrapper-2">:</div>
+      <div class="text-wrapper-3">AGE :</div>
+      <div class="text-wrapper-4">MOBILE NO :</div>
+      <div class="text-wrapper-5">E MAIL :</div>
+      <div class="text-wrapper-6">-</div>
+      <div class="text-wrapper-7">REFERENCE NO:</div>
+      <div class="text-wrapper-8">SUBMIT</div>
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="android-medium">
+      <img class="images" src="img/images.png" />
+      <img class="element" src="img/251-6b-9b-6df-3-2e-2675-2aa-7d-58-1a-3a-0094.png" />
+      <div class="text-wrapper">THANK YOU!</div>
+      <div class="div">FOR YOUR PARTICIPATION</div>
+    </div>
+  </body>
+</html>
 
 ## OUTPUT:
+<img width="1682" height="806" alt="Screenshot 2025-12-24 133656" src="https://github.com/user-attachments/assets/e98974d7-84ec-4f0d-b0fd-09c99195fede" />
+
 
 
 ## RESULT:
